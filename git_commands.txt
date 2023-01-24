@@ -1,0 +1,262 @@
+    1  git branch music
+    2  git branch
+    3  git switch music
+    4  git branch
+    5  git log --oneline
+    7  git status
+    8  git add .
+    9  git commit -m 'create music-cur file'
+   10  git log
+   11  git switch main
+   12  git switch music
+   13  git switch main
+   14  git merge music
+   15  git log --oneline
+   16  git branch -d music
+   17  git branch
+   18  git log
+   20  git log --oneline
+   21  git checkout 1c62b22
+   23  git remote -v
+   24  git remote add origin git@github.com:esnt/class-example.git
+   25  git remote -v
+   26  git push -u origin main
+   34  git clone git@github.com:esnt/stat386-projects.git
+   37  git status
+   38  git remote -v
+   39  git remote set-url origin git@github.com:esnt/stat386-projects2.git
+   40  git remote -v
+   41  git push -u origin main
+   47  git clone git@github.com:acurtis2023/stat386-projects.git
+   50  git clone git@github.com:acurtis2023/stat386-projects.git
+   65  git status
+   66  git remote -v
+   73  git status
+   74  git remote -v
+   80  git status
+   81  git switch main
+  103  git status
+  110  git clone git@github.com:esnt/stat386-projects.git
+  111  git status
+  112  git remote -v
+  113  git remote set-url origin git@github.com:esnt/example-blog.git
+  114  git push -u origin main
+  119  git clone git@github.com:esnt/stat426.git
+  120  history 0 | grep 'git'
+  151  git clone git@github.com:runstats21/stat-386-projects.git
+  165  git clone git@github.com:152151/stat386-projects.git
+  180  git pull
+  221  git clone git@github.com:sspackman99/stat386-projects.git
+  230  git clone git@github.com:Redskywalker7/stat386-projects.git
+  241  git pull
+  250  git clone git@github.com:stat426-fall2021/hw-01.git
+  253  git clone git@github.com:stat426-fall2021/hw-02.git
+  268  git init
+  269  git status
+  270  git add Flights/
+  271  git commit -m 'Add Flights data'
+  272  git status
+  273  git remote add origin git@github.com:esnt/stat386-data.git
+  274  git remote -v
+  275  git push -u origin main
+  276  git remote set-url origin git@github.com:stat386-fall2022/homework-data.git
+  277  git push -u origin main
+  283  git clone git@github.com:parkcherrington/stat386-projects.git
+  292  git clone git@github.com:stat386-fall2022/hw-03-solutions.git
+  296  git status
+  297  git status
+  298  git status
+  299  git add .
+  300  git commit -m 'Add answers'
+  301  git push
+  308  git clone git@github.com:aldenm01/stat386-projects.git
+  318  git clone git@github.com:stat426-fall2021/stat426-fall2021.github.io.git
+  339  git status
+  340  git add .
+  341  git commit -m 'Update authors'
+  342  git remote set-url origin git@github.com:stat386-fall2022/stat386-fall2022.io.git
+  343  git push -u origin main
+  344  git status
+  345  git status
+  346  git add .
+  347  git commit 'Update ignore files'
+  348  git commit -m 'Update ignore files'
+  349  git status
+  350  git remote set-url origin git@github.com:stat386-fall2022/stat386-fall2022.github.io.git
+  351  git remote -v
+  352  git push -u origin main
+  356  git pull
+  357  git status
+  358  git add .
+  359  git commit -m 'Update student urls'
+  360  git status
+  361  git add .
+  362  git commit -m 'And update urls again'
+  363  git push
+  364  git status
+  365  git pull
+  366  git add .
+  367  git commit -m 'Update author order'
+  368  git push
+  372  git status
+  373  git add .
+  374  git commit -m 'Update for Stat386'
+  375  git remote -v
+  377  git status
+  378  git restore .
+  379  git status
+  381  git status
+  382  git status
+  383  git restore .
+  384  git status
+  396  git clone git@github.com:152151/stat-projects.git
+  427  git clone git@github.com:stat386-fall2022/hw-03-esnt.git
+  432  git status
+  433  git add .
+  434  git commit -m 'Add code files'
+  435  git push
+  436  git log
+  437  git status
+  438  git add
+  439  git add data.xlsx
+  440  git status
+  441  git commit -m 'create data file'
+  442  git status
+  443  git push
+  456  git clone git@github.com:stat386-fall2022/hw-04-esnt.git
+  463  git remote -v
+  475  git remote -v
+  477  git clone git@github.com:esnt/my386-blog.git
+  480  git remote -v
+  483  git status
+  484  git add .
+  485  git commit -m 'Update blog for examples'
+  486  git push
+  488  git status
+  489  git add ,.
+  490  git add .
+  491  git commit -m 'Finish web scraping post'
+  492  git push
+  494  git status
+  495  git add .
+  496  git commit -m 'Update data figure'
+  497  git push
+  504  git status
+  505  git pull
+  516  git init
+  518  git status
+  519  git add .
+  520  git commit -m 'Initial commit'
+  521  git remote add origin git@github.com:esnt/airquality.git
+  522  git push -u origin main
+  523  git pull
+  555  git clone git@github.com:emwight/stat386-projects.git
+  575  git status
+  576  git add .
+  577  git commit -m 'Update tb data'
+  578  git push
+  605  git status
+  606  git pull
+  611  git status
+  612  git add .
+  613  git commit -m 'Update authors file'
+  614  git push
+  615  git status
+  616  git add .
+  617  git commit -m 'Update authors again'
+  618  git push
+  632  git status
+  633  git pull
+  634  git add .
+  635  git commit -m 'add gapminder data'
+  636  git push
+  640  history | grep 'git'
+  641  git log
+  642  git log > log.txt
+  744  git status
+  745  git add .
+  746  git commit -m 'Add basketball data'
+  747  git push
+  770  git clone git@github.com:esnt/birth_year_probability.git
+  773  git status
+  774  git add .
+  775  git commit -m 'Add data'
+  776  git push
+  777  git status
+  778  git add .
+  779  git commit -m 'Add requirements file'
+  780  git push
+  781  git add .
+  782  git commit -m 'Update requirements.txt file'
+  783  git push
+  813  git status
+  814  git add .
+  815  git commit -m 'Try adding plotly file'
+  816  git push
+  817  git status
+  818  git add .
+  819  git commit -m 'Add a plotly figure'
+  820  git push
+  848  git log
+  850  git clone git@github.com:stat386-fall2022/midterm-Kattsun2525.git
+  852  git clone git@github.com:stat386-fall2022/midterm-parkcherrington.git
+  862  git clone git@github.com:rmiles7720/stat386-projects.git
+  891  git clone git@github.com:esnt/Data.git
+  892  git status
+  895  git status
+  896  git add Gapminder Names Races
+  897  git status
+  898  git commit -m 'Add the names, races, gapminder data'
+  899  git push
+  900  git status
+  901  git pull
+  918  git status
+  919  git add .
+  920  git commit -m 'Update author cards'
+  921  git push
+  922  git status
+  923  git add .
+  924  git commit -m 'Update author cards'
+  925  git push
+  926  git status
+  927  git add .
+  928  git commit -m 'Update author cards'
+  929  git push
+  932  git --version
+  937  git --version
+  950  git clone git@github.com:esnt/my386blog.git
+  957  git status
+  958  git add .
+  959  git commit -m 'Update for 2023'
+  960  git remote -v
+  961  git push
+  962  git status
+  963  git add .
+  964  git commit -m 'Update blog pic'
+  965  git push
+  974  git status
+  975  git remote -v
+  976  git status
+  977  git add .
+  978  git commit -m 'Add oceanic fisheries data'
+  979  git push
+  980  git remote -v
+  982  git add .
+  983  git commit -m 'Add data from other repo'
+  984  git push
+  996  git status
+  997  git status
+  998  git add .
+  999  git commit -m 'Add happiness data'
+ 1000  git push
+ 1001  git config user.name
+ 1002  git config core.editor
+ 1005  git init
+ 1007  rm -rf .git
+ 1013  git status
+ 1016  git status
+ 1020  git status
+ 1024  git status
+ 1032  git --version
+ 1037  git init
+ 1039  git status
